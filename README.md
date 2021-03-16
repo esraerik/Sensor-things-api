@@ -1,1 +1,2 @@
-# Sensor-things-api
+# JoeSensorthings
+Sensorthings Project
